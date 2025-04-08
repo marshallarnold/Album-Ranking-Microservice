@@ -4,4 +4,5 @@ JavaScript microservice that uses MongoDB, Express, and Node.js to maintain a li
 To run:
 
 npm install
+
 npm start
